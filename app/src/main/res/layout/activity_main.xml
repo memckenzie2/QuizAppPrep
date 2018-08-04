@@ -108,7 +108,9 @@
             android:id="@+id/submit"
             android:text="@string/submit"
             app:fontFamily="@font/medievalsharp"
-            style="@style/button" />
+            style="@style/button"
+            android:onClick ="onSubmit"/>
+
 
     </LinearLayout>
 </ScrollView>
