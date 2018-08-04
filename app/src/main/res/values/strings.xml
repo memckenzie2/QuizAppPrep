@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuizAppPrep</string>
+    <string name="title">Download and Stream Quiz</string>
+    <string name="q1">Which of type of item is NOT available to borrow from the IndyPL's Download and Stream Collection?</string>
+    <string name="q1_opt1">Music</string>
+    <string name="q1_opt2">Movies</string>
+    <string name="q1_opt3">A Librarian</string>
+    <string name="q1_opt4">eMagazines</string>
+    <string name="q2">Select all of the types of materials you can borrow from the library using Libby:</string>
+    <string name="q2_opt1">eBooks</string>
+    <string name="q2_opt2">Movies</string>
+    <string name="q2_opt3">Librarians</string>
+    <string name="q2_opt4">Audiobooks</string>
+    <string name="q3">How many free songs can you get (and keep forever!) from Freegal per month?</string>
+    <string name="submit">Submit</string>
+</resources>
