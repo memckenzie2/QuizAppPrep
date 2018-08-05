@@ -58,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void scoreQuiz(){
+        //Set score to 0 since re-scoring
         score = 0;
 
         //Score a point if q1 is correct
@@ -65,6 +66,7 @@ public class MainActivity extends AppCompatActivity {
             score += 1;
         }
 
+        //Find percent correct: take total correct/number of questions
         percentCorrect = (int)(score*100/numQuestions);
     }
 
