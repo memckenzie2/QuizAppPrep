@@ -109,6 +109,7 @@
             android:text="@string/submit"
             app:fontFamily="@font/medievalsharp"
             style="@style/button"
+            android:onClick="onSubmit"
             />
 
 
