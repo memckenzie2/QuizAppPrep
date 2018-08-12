@@ -9,7 +9,7 @@ import android.widget.RadioGroup;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    //Score related variables
+    //Place app variables here
 
 
     @Override
@@ -19,7 +19,11 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-
+    
+    //
+    public void onSubmit(View v){
+        Toast.makeText(getApplicationContext(), "Hello World!", Toast.LENGTH_LONG).show();
+    }
 
 
 }
